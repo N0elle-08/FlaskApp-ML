@@ -4,7 +4,6 @@ Overview
 This project showcases an end-to-end machine learning pipeline implemented using modular coding techniques. The pipeline includes data ingestion, data transformation, and model training with hyperparameter tuning. The trained model is then deployed using Flask, allowing users to interact with it via a web interface.
 
 Project Structure
-The project is organized into the following main modules:
 
 **Data Ingestion**: In this module, we collect and load the dataset into the project. The dataset serves as the foundation for our machine learning tasks.
 
