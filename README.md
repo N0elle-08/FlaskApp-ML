@@ -1,4 +1,4 @@
-## Machine Learning Project with Flask Deployment
+## Machine Learning Project - Flask Application
 
 Overview
 This project showcases an end-to-end machine learning pipeline implemented using modular coding techniques. The pipeline includes data ingestion, data transformation, and model training with hyperparameter tuning. The trained model is then deployed using Flask, allowing users to interact with it via a web interface.
