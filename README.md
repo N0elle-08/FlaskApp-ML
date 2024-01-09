@@ -29,4 +29,4 @@ Run the Flask web application:
     'python app.py'
 The web application should now be accessible in your web browser at http://localhost:5000.
 
-**Docker : ** docker pull noelle08/studscore
+docker pull noelle08/studscore
